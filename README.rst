@@ -57,13 +57,13 @@ Para detener la instancia Zope, ejecute el siguiente comando: ::
 Integración con MySQL
 =====================
 
-Para la construcción las librerias que integran con MySQL, ejecute el siguiente comando: ::
+Para la construcción las librerías que integran con MySQL, ejecute el siguiente comando: ::
 
   (python2.7)$ ./bin/buildout -vvvvvNc mysql.cfg
 
 Integración con PostgreSQL
 ==========================
 
-Para la construcción las librerias que integran con PostgreSQL, ejecute el siguiente comando: ::
+Para la construcción las librerías que integran con PostgreSQL, ejecute el siguiente comando: ::
 
   (python2.7)$ ./bin/buildout -vvvvvNc postgresql.cfg
